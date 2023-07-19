@@ -7,3 +7,8 @@
 
 # Linking an image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# markdown for python code
+```python
+print("This is a python code!!!")
+```
